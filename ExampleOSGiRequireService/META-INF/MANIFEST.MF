@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ExampleOSGiRequireService
+Bundle-SymbolicName: ExampleOSGiRequireService
+Bundle-Version: 1.0.0.qualifier
+Import-Package: org.osgi.framework, service.itf
+Bundle-Activator: p1.Activator
